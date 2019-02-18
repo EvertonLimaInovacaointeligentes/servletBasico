@@ -1,2 +1,3 @@
 # servletBasico
-Esse projeto visa o entendimento utilização de servlet basico com java EE, o projeto compreende um sistema de cadastro de empresa, utilizando: paginas jsp, página html, css menu dinamico, utilização de array, por questao de praticidade, o projeto encontra-se compilado em deploy
+Esse projeto visa o entendimento utilização de servlet básico com Java EE, o projeto compreende um sistema de cadastro de empresa, utilizando: páginas jsp, página html, css menu dinâmico, utilização de array, por questão de praticidade, o projeto encontra-se compilado em deploy.
+Projeto criado somente para exercitar conhecimento.
